@@ -9,23 +9,4 @@ ddddddd
 
 오늘 수업 재밌네요~^^
 
-gi estas mi bone.
-
-#include <stdio.h>
-
-int main()
-{
-  int n = 0;
-  while (1) 
-  {
-    pritnf("*\n");
-    n++;
-    if ( n > 10 ) break;
-  }
-return 0;
-}
-화면에 표시되는건 줄바꿈이 안되네
-
-강상규
-
 아.......................
